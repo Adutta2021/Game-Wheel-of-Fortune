@@ -1,4 +1,4 @@
-###This project is under coursera Python 3 specialization's course 3 "python class and inheritance". This code is not fully optimize there are still some bugs there. If anyway one know how to fixed those bugs please tell me.###
+###This project is under coursera Python 3 specialization's course 3 "python class and inheritance". This code is not fully optimize there are still some bugs there.###
 
 Here are the rules of the game:
 
